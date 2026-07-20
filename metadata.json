@@ -1,0 +1,6 @@
+{
+  "name": "Ghufran King v3",
+  "description": "Advanced Data Intelligence and smart tracking analytics platform with real-time AI security profiling.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
